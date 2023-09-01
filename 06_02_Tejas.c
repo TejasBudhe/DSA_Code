@@ -1,5 +1,10 @@
-Q2.Write a C program to generate Pascal Triangle using array
-
+/*
+name = Tejas Budhe
+Roll No. = 06
+pid = 02
+SE-IT (sem 3)
+2023-24
+*/
 
 #include <stdio.h>  
 // Function to calculate and display Pascal's Triangle  
