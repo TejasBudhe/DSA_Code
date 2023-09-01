@@ -1,5 +1,10 @@
-Q8 Write a function that compares two arrays and returns 1 if they are identical and 0
-otherwise.
+/*
+name = Tejas Budhe
+Roll No. = 06
+program id = 08
+SE-IT (sem 3)
+2023-24
+*/
 
 #include<stdio.h>
 
