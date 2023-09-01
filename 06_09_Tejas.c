@@ -1,3 +1,12 @@
+/*
+name = Tejas Budhe
+Roll No. = 06
+program id = 09
+SE-IT (sem 3)
+2023-24
+*/
+
+
 #include<stdio.h>
 void main()
 {
