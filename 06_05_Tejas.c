@@ -1,4 +1,10 @@
-Q5 Write a C program to find largest element in an array
+/*
+name = Tejas Budhe
+Roll No. = 06
+program id = 05
+SE-IT (sem 3)
+2023-24
+*/
 
 #include <stdio.h>
 int main() {
