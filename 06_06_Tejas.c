@@ -1,7 +1,7 @@
 /*
 name = Tejas Budhe
 Roll No. = 06
-pid = 6
+program id = 06
 SE-IT (sem 3)
 2023-24
 */
