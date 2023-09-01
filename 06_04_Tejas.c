@@ -1,6 +1,10 @@
-Q4 Write a C program to roll_no, name , percentange of 5 students using array of
-structure and display the records in descending order of percentange.
-
+/*
+name = Tejas Budhe
+Roll No. = 06
+program id = 04
+SE-IT (sem 3)
+2023-24
+*/
 
 #include<stdio.h>
 
