@@ -1,8 +1,10 @@
-
-
-
-
-Q1. Write a C program to check if a given number is a part of Fibonacci number series
+/*
+name = Tejas Budhe
+Roll No. = 06
+pid = 01
+SE-IT (sem 3)
+2023-24
+*/
 
 #include <stdio.h>
 #include <stdbool.h>
