@@ -37,7 +37,7 @@ void main()
         }
         if(num<fib(i))
         {
-            /
+            
             printf("False");
             printf("\nThe number %d is not a part of fibonacci series", num);
             break;
